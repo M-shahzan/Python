@@ -1,0 +1,6 @@
+support@example.com
+info@example.com
+doe@example.com
+test@EXAMPLE.com
+Test@example.com
+doe@example.com

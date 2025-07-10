@@ -1,6 +1,6 @@
-wrd = input("enter the sntence : ")
-wrd2 = ""
-wrdList = wrd.split()
-for i in range(len(wrdList)-1,-1,-1):
-    wrd2 += wrdList[i]+" "
-print("reversed sentence is :\n",wrd2)
+sentence = input("enter a sentence:")
+wordList = sentence.split()
+revSentence = ""
+for i in wordList:
+    revSentence += i[::-1]+" "
+print(revSentence)

@@ -1,0 +1,7 @@
+[2025-07-01 10:45:12] ERROR: Failed to connect to database.
+[2025-07-01 10:45:15] INFO: Retrying connection.
+[2025-07-01 10:45:20] WARNING: Connection is slow.
+[2025-07-01 10:45:25] INFO: Connection successful.
+[2025-07-01 10:45:30] ERROR: Query timeout.
+[2025-07-01 10:45:32] WARNING: High memory usage.
+[2025-07-01 10:45:40] DEBUG: This should be ignored.

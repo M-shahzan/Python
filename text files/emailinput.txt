@@ -1,0 +1,14 @@
+Hello,
+
+Please reach out to us at support@example.com or info@example.com.
+You can also contact John Doe at john.doe@example.com or jane_doe123@example.co.uk.
+
+Note: Emails like not_an_email@ or @missinguser.com are invalid and should be ignored.
+Also, test@EXAMPLE.com and Test@example.com should be treated as duplicates.
+
+Other contacts: hr@company.co.in, team-lead@company.co.in, feedback@domain.org.
+
+Duplicate test: john.doe@example.com, HR@company.co.in
+
+Thanks,
+Admin Team
